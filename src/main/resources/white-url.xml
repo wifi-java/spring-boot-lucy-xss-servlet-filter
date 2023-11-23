@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<white-url>
+	<src>
+		<domain name="https://www.youtube.com" desc="유튜브">
+			<pattern>http://youtube.com*</pattern>
+			<pattern>https://www.youtube.com/*</pattern>
+		</domain>
+	</src>
+</white-url>
